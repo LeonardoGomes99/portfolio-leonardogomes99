@@ -13,12 +13,12 @@
     <link href="/css/themify-icons.css" rel="stylesheet">
     <link href="/css/topbar.virtual.css" rel="stylesheet">
     <link href="/css/virtual.css" rel="stylesheet">
+    <script src='/js/index.js'></script>
 </head>
 <body>
     <meta name="csrf-token" content="{{ csrf_token() }}" />
     @yield('content')
 </body>
-<script src="/js/jquery-3.5.1.min.js"></script>
     
 <script src="/vendor/owl-carousel/owl.carousel.min.js"></script>
     
