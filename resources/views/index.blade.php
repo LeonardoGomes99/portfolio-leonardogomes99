@@ -28,39 +28,11 @@
 
 <div class="vg-page page-home" id="home">
     <!-- Navbar -->
-    <div class="navbar navbar-expand-lg navbar-dark sticky" data-offset="500">
-        <div class="container">
-            <button class="navbar-toggler" data-toggle="collapse" data-target="#main-navbar" aria-expanded="true">
-                <span class="ti-menu"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="main-navbar">
-                <ul class="navbar-nav ml-auto">
-                    <li class="nav-item active">
-                        <a href="#home" class="nav-link" data-animate="scrolling">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="#about" class="nav-link" data-animate="scrolling">Sobre Mim</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="#skills" class="nav-link" data-animate="scrolling">Skills</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="#portfolio" class="nav-link" data-animate="scrolling">Portfolio</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="#contact" class="nav-link" data-animate="scrolling">Contato</a>
-                    </li>
-                </ul>
-                <ul class="nav ml-auto">
-                </ul>
-            </div>
-        </div>
-    </div> <!-- End Navbar -->
     <!-- Caption header -->
     <div class="caption-header text-center wow zoomInDown">
         <h5 class="fw-normal">Olá,</h5>
         <h1 class="fw-light mb-4">Me chamo <b class="fg-theme">Leonardo</b></h1>
-        <div class="badge">Desenvolvedor Web</div>
+        <div><b>Desenvolvedor Web</b></div>
     </div> <!-- End Caption header -->
 </div>
 
@@ -76,7 +48,7 @@
                 <h1 class="fw-light">Leonardo Gomes da Silva</h1>
                 <h5 class="fg-theme mb-3">Desenvolvedor Web</h5>
                 <h5 class="fg-theme mb-3"><b>Principal Stack:</b> Laravel</h5>
-                <p class="text-muted">Meus objetivos são aplicar conhecimentos adquiridos focando sempre no trabalho em
+                <p class="text-muted">Meus objetivos são aplicar conhecimentos adquiridos sempre com foco no trabalho em
                     equipe, melhoria
                     contínua, ganho de experiência e inovação</p>
                 <ul class="theme-list">
@@ -377,7 +349,7 @@
                     <p>Meu Linkedin</p>
                     <hr class="divider">
                     <ul class="list-unstyled">
-                        <li><a href="https://www.linkedin.com/in/leonardo-gomes-63a2b717b/">Linkedin</a></li>
+                        <li><a href="https://www.linkedin.com/in/leonardo-gomes-63a2b717b/" target="_blank">Linkedin</a></li>
                     </ul>
                 </div>
             </div>

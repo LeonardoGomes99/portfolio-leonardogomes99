@@ -1,6 +1,6 @@
 .vg-page.page-home::before  {
     background: rgb(2,0,36);
-background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,44,9,1) 43%, rgba(0,212,255,1) 100%);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,44,9,1) 43%, rgba(0,212,255,1) 100%);
 }
 
 .img_portf{
@@ -9,6 +9,7 @@ border-style: 5px solid #555;
 
 .page-home .badge {
     color: white !important;
+    background-color: none !important;
 }
 
 .vg-page.page-home::after  {
