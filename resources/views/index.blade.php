@@ -262,7 +262,7 @@
                         data-caption="<h5 class='fg-theme'></h5> <p></p>">
                         <img src="/img/work/docker-laravel.png" alt="">
                         <div class="img-caption">
-                            <h5 class="fg-theme">Docker With Php,Apache2,Mysql</h5>
+                            <h5 class="fg-theme">Docker With Php, Apache2, Mysql</h5>
                         </div>
                     </div>
                 </div>
