@@ -295,7 +295,7 @@
                     </div>
                 </div>
             </a>
-            <a href="https://github.com/LeonardoGomes99/Agenda-VExpenses" target="_blank">
+            <a href="https://github.com/LeonardoGomes99/Agenda-VEX" target="_blank">
                 <div class="grid-item template wireframes wow zoomIn">
                     <div class="img-place" data-src="/img/work/agendaVex.png" data-fancybox
                         data-caption="<h5 class='fg-theme'></h5> <p></p>">

@@ -9,7 +9,6 @@
     <link href="/css/portfolio.css" rel="stylesheet">
     <link href="/css/bootstrap.css" rel="stylesheet">
     <link href="/css/maicons.css" rel="stylesheet">
-    <link href="/css/minibar.virtual.css" rel="stylesheet">
     <link href="/css/themify-icons.css" rel="stylesheet">
     <link href="/css/topbar.virtual.css" rel="stylesheet">
     <link href="/css/virtual.css" rel="stylesheet">
@@ -36,7 +35,6 @@
 
 <script src="/js/google-maps.js"></script>
 
-<script src="/js/topbar-virtual.js"></script>
 
 <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIA_zqjFMsJM_sxP9-6Pde5vVCTyJmUHM&callback=initMap"></script>
 </html>
